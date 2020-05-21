@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbabc2ac-906f-402f-80e7-c2f2776d0e12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bQm2TY1Qt2HR83HvbGzk7Xo7ui" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="online.quiz" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\damir\Desktop\quiz\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="quiz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="online.quiz.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbabc2ac-906f-402f-80e7-c2f2776d0e12" name="Default Changelist" comment="" />
+      <created>1588572492316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588572492316</updated>
+      <workItem from="1588572518552" duration="486000" />
+      <workItem from="1589730068760" duration="7527000" />
+      <workItem from="1589960532598" duration="6513000" />
+      <workItem from="1589970561284" duration="489000" />
+      <workItem from="1590002688584" duration="10617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="243" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589776763592">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="479" y="243" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1589776763592" />
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1590037496026">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590037496026" />
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1590039435189">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590039435189" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1588573225291" />
+    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1590039435189">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590039435189" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1588573225291" />
+    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1590039435189">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590039435189" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1588573225291" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1590039435189">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590039435189" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1588573225291" />
+    <state x="379" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1589971053722">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="201" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1589971053722" />
+    <state x="379" y="223" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1588572518802" />
+    <state x="65" y="79" key="new project wizard" timestamp="1589815063403">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="79" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1589815063403" />
+  </component>
+</project>
