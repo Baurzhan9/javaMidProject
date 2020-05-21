@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="462405ea-2492-4961-910e-d4732163bb83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="course: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="course: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="course: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c5Oc1IuoymjTmREFiugmr7goMn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\damir\Desktop\online course\src\main\resources\static\css" />
+      <recent name="C:\Users\damir\Desktop\online course\src\main\resources\templates" />
+      <recent name="C:\Users\damir\Desktop\online course\src\main\resources\static" />
+      <recent name="C:\Users\damir\Desktop\online course\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\damir\Desktop\online course\src\main\webapp\resources\theme" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringMainApplication">
+    <configuration name="SpringMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="online course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="main.SpringMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="online course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="SpringMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="462405ea-2492-4961-910e-d4732163bb83" name="Default Changelist" comment="" />
+      <created>1589815064678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589815064678</updated>
+      <workItem from="1589815080789" duration="17032000" />
+      <workItem from="1589903925403" duration="1199000" />
+      <workItem from="1589907215320" duration="713000" />
+      <workItem from="1589959404889" duration="6860000" />
+      <workItem from="1589971076872" duration="23363000" />
+      <workItem from="1589998981772" duration="26069000" />
+      <workItem from="1590038350663" duration="820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Assign_Data_Sources" timestamp="1589873451569">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Assign_Data_Sources/0.0.1366.768@0.0.1366.768" timestamp="1589873451569" />
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589820832889">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1589820832889" />
+    <state x="434" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589991624064">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="434" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1589991624064" />
+    <state x="738" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1590036740290">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="738" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1590036740290" />
+    <state width="1323" height="159" key="GridCell.Tab.0.bottom" timestamp="1590039502642">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590039502642" />
+    <state width="1323" height="159" key="GridCell.Tab.0.center" timestamp="1590039502640">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590039502640" />
+    <state width="1323" height="159" key="GridCell.Tab.0.left" timestamp="1590039502639">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590039502639" />
+    <state width="1323" height="159" key="GridCell.Tab.0.right" timestamp="1590039502641">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590039502641" />
+    <state width="1323" height="159" key="GridCell.Tab.1.bottom" timestamp="1590039502644">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590039502644" />
+    <state width="1323" height="159" key="GridCell.Tab.1.center" timestamp="1590039502643">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1590039502643" />
+    <state width="1323" height="159" key="GridCell.Tab.1.left" timestamp="1590039502643">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1590039502643" />
+    <state width="1323" height="159" key="GridCell.Tab.1.right" timestamp="1590039502644">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="159" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1590039502644" />
+    <state x="399" y="25" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1590035336745">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="399" y="25" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1590035336745" />
+    <state x="541" y="130" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1589820872904">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="541" y="130" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1366.768@0.0.1366.768" timestamp="1589820872904" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1589998980346">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1589998980346" />
+    <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1589995563177">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="607" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1589995563177" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1590007779682">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1590007779682" />
+    <state x="363" y="67" key="spring file set editor" timestamp="1589978871026">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="67" key="spring file set editor/0.0.1366.768@0.0.1366.768" timestamp="1589978871026" />
+  </component>
+</project>
