@@ -133,6 +133,7 @@
       <workItem from="1589971076872" duration="23363000" />
       <workItem from="1589998981772" duration="26069000" />
       <workItem from="1590038350663" duration="2675000" />
+      <workItem from="1590042529387" duration="2004000" />
     </task>
     <servers />
   </component>
@@ -196,10 +197,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="541" y="130" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1366.768@0.0.1366.768" timestamp="1589820872904" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1589998980346">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1590042559815">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1589998980346" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590042559815" />
     <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1589995563177">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
